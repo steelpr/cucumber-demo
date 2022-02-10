@@ -1,0 +1,7 @@
+package projections.log;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(monochrome = true, plugin = {"pretty","html:target/login-feature"})
+public class LoginStarter {
+
+}

@@ -1,0 +1,5 @@
+package projections.reg;
+
+public class RegisterStarter {
+
+}

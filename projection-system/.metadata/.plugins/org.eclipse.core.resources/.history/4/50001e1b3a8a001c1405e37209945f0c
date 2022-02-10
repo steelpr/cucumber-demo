@@ -1,0 +1,5 @@
+package projections.service;
+
+public class LoginSevice {
+
+}

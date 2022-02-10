@@ -1,0 +1,9 @@
+package projections;
+
+import org.junit.runner.RunWith;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(monochrome = true, plugin = {"pretty","html:target/home-feature"})
+public class HomeScreenStarter {
+
+}

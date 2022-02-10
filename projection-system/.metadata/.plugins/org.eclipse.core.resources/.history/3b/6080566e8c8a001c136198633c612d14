@@ -1,0 +1,5 @@
+package projections.project.model;
+
+public class ProjectionScreenModel {
+
+}

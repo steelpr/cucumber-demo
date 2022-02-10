@@ -1,0 +1,7 @@
+package projections.reg;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(monochrome = true, plugin = {"pretty","html:target/register-feature"})
+public class RegisterStarter {
+
+}

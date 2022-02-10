@@ -1,0 +1,5 @@
+package projections.login.model;
+
+public class LoginScreenModel {
+
+}

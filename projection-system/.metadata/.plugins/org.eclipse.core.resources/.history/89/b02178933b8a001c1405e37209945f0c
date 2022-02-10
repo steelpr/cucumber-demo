@@ -1,0 +1,44 @@
+package projections.models;
+
+import java.util.Set;
+
+
+/**
+ * 
+ */
+public class Role {
+
+    /**
+     * Default constructor
+     */
+    public Role() {
+    }
+
+    private String roleCode;
+
+    private Set<User> users;
+
+ 
+    public void setRoleCode(String code) {
+    	this.roleCode = code;
+    }
+
+    /**
+     * @return
+     */
+    public String getRoleCode() {
+      return roleCode;
+    }
+
+    /**
+     * @return
+     */
+    public Set<User> getUsers() {
+    	return users;
+    }
+
+    public void setUsers(Set<User> users) {
+       this.users = users;
+    }
+
+}

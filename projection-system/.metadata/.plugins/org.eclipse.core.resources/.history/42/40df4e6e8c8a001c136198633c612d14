@@ -1,0 +1,30 @@
+package projections.projection;
+
+public class ProjectionSteps {
+	private PostScreenModel postScreenModel;
+
+	@Given("^ отваря екрана за управление на публикациите$")
+	public void openPostScreen() throws Throwable {
+		postScreenModel = new PostScreenModel();
+	}
+
+	@When("^Добавя заглавие: \"([^\"]*)\"$")
+	public void addTitle(final String title) throws Throwable {
+		postScreenModel.setTitle(title);
+	}
+
+	@When("^Добавя съдържание: \"([^\"]*)\"$")
+	public void addContent(final String content) throws Throwable {
+		postScreenModel.setContent(content);
+	}
+
+	@When("^Натиска бутона публикувай$")
+	public void clickCreatePostButton() throws Throwable {
+		postScreenModel.clickCreatePostButton();
+	}
+
+	@Then("^Вижда съобщение: \"([^\"]*)\"$")
+	public void checkMessage(final String expectedMessage) throws Throwable {
+		assertEquals(expectedMessage, postScreenModel.getMessage());
+	}
+}

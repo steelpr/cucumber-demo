@@ -1,0 +1,399 @@
+2022-02-10 07:18:07,000 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 07:18:56,203 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 07:20:55,954 [Worker-18: Creating project "projections"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 07:20:56,818 [Worker-18: Creating project "projections"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projections/src/main/java
+2022-02-10 07:20:56,820 [Worker-18: Creating project "projections"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projections/src/main/resources
+2022-02-10 07:20:56,822 [Worker-18: Creating project "projections"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /projections/src/test/java
+2022-02-10 07:20:56,822 [Worker-18: Creating project "projections"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /projections/src/test/resources
+2022-02-10 07:20:57,853 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:20:57,861 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:20:57,864 [Worker-11: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:20:57,866 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:28:48,609 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:28:48,617 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:28:48,622 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:28:48,624 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:30:31,652 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:30:31,655 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:30:31,661 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:30:31,664 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:32:45,513 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:32:45,515 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:32:45,517 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:32:45,519 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:32:49,870 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:32:49,871 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:32:49,874 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:32:49,875 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:39:24,281 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:39:24,283 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:39:24,286 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:39:24,288 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:59:27,643 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-10 07:59:35,781 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 07:59:35,796 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 07:59:35,907 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:59:35,910 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 07:59:35,912 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 07:59:35,914 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:00:30,729 [Worker-52: Launching Executing clean in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 08:00:30,730 [Worker-52: Launching Executing clean in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2022-02-10 08:00:35,922 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:00:35,924 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:00:35,928 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:00:35,930 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:00:53,035 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 08:00:53,036 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 08:01:38,364 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:01:38,366 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:01:38,368 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:01:38,370 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:02:06,217 [Worker-40: Launching Executing install in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 08:02:06,217 [Worker-40: Launching Executing install in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-02-10 08:03:51,681 [Worker-57: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:03:51,682 [Worker-57: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:03:51,684 [Worker-57: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:03:51,686 [Worker-57: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:07:30,906 [Worker-56: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:07:30,908 [Worker-56: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:07:30,911 [Worker-56: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:07:30,912 [Worker-56: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:08:10,010 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2022-02-10 08:08:17,261 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 08:08:17,261 [Worker-54: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 08:18:01,641 [Worker-59: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 08:18:01,642 [Worker-59: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 08:20:19,984 [Worker-57: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:20:19,987 [Worker-57: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 08:20:19,989 [Worker-57: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 08:20:19,991 [Worker-57: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:14:46,625 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:14:46,627 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:14:46,629 [Worker-89: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:14:46,630 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:14:49,715 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:14:49,716 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:14:49,718 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:14:49,719 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:25:27,390 [Worker-93: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 09:25:28,299 [Worker-94: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:25:28,300 [Worker-94: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:25:28,303 [Worker-94: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:25:28,303 [Worker-94: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:26:13,837 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:26:13,839 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:26:13,841 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:26:13,842 [Worker-90: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:26:30,972 [Worker-90: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 09:26:31,392 [Worker-89: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:26:31,394 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:26:31,397 [Worker-89: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:26:31,399 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:27:25,427 [Worker-94: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 09:27:25,890 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:27:25,890 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:27:25,892 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:27:25,892 [Worker-89: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:29:15,019 [Worker-93: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:29:15,020 [Worker-93: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:29:15,022 [Worker-93: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:29:15,022 [Worker-93: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:35:52,234 [Worker-109: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:35:52,235 [Worker-109: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:35:52,238 [Worker-109: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:35:52,238 [Worker-109: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:36:07,477 [Worker-112: Cleaning all projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 09:36:07,925 [Worker-97: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:36:07,926 [Worker-97: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:36:07,929 [Worker-97: Building Workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-10 09:36:07,930 [Worker-97: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:38:03,498 [Worker-124: Build Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: projections.com:projections:0.0.1-SNAPSHOT @ D:\projection\projections\pom.xml.
+2022-02-10 09:38:03,693 [Worker-124: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:38:03,695 [Worker-124: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:38:03,698 [Worker-124: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:38:03,698 [Worker-124: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:39:01,350 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:39:01,351 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:39:01,352 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:39:01,353 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:39:57,008 [Worker-98: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:39:57,008 [Worker-98: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:39:57,010 [Worker-98: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:39:57,011 [Worker-98: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:40:57,229 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:40:57,229 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:40:57,231 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:40:57,232 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:43:38,559 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:43:38,560 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:43:38,564 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:43:38,565 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:45:43,878 [Worker-122: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:45:43,880 [Worker-122: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:45:43,882 [Worker-122: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:45:43,882 [Worker-122: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:46:59,207 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:46:59,207 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:46:59,210 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:46:59,211 [Worker-124: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:49:16,346 [Worker-126: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:49:16,347 [Worker-126: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:49:16,350 [Worker-126: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:49:16,351 [Worker-126: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:50:50,659 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 09:51:12,793 [Worker-20: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:51:12,800 [Worker-20: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:51:12,805 [Worker-20: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:51:12,806 [Worker-20: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:51:59,097 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:51:59,099 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:51:59,101 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:51:59,102 [Worker-14: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:53:15,331 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:53:15,332 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:53:15,334 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:53:15,335 [Worker-30: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:53:34,803 [Worker-2: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:53:34,803 [Worker-2: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:53:34,806 [Worker-2: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:53:34,806 [Worker-2: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:54:25,764 [Worker-28: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:54:25,768 [Worker-28: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:54:25,770 [Worker-28: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:54:25,773 [Worker-28: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:57:31,862 [Worker-38: Launching projections (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:57:31,866 [Worker-38: Launching projections (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:57:31,869 [Worker-38: Launching projections (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:57:31,870 [Worker-38: Launching projections (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:58:03,426 [Worker-38: Launching TestSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:58:03,426 [Worker-38: Launching TestSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 09:58:03,429 [Worker-38: Launching TestSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 09:58:03,429 [Worker-38: Launching TestSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 10:00:34,694 [Worker-42: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 10:00:34,700 [Worker-42: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 10:12:45,822 [Worker-46: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 10:12:45,823 [Worker-46: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 10:12:45,828 [Worker-46: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 10:12:45,831 [Worker-46: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 12:10:08,607 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-10 12:10:28,523 [Worker-33: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:10:28,528 [Worker-33: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:10:28,531 [Worker-33: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:10:28,532 [Worker-33: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 12:11:20,758 [Worker-3: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 12:11:20,761 [Worker-3: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 12:11:32,946 [Worker-10: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:11:32,947 [Worker-10: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:11:32,948 [Worker-10: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:11:32,949 [Worker-10: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:15:08,730 [Worker-7: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:15:08,730 [Worker-7: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:15:08,732 [Worker-7: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:15:08,733 [Worker-7: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 12:19:34,211 [Worker-37: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:19:34,211 [Worker-37: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:19:34,212 [Worker-37: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:19:34,212 [Worker-37: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:20:02,373 [Worker-37: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:20:02,373 [Worker-37: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:20:02,375 [Worker-37: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:20:02,375 [Worker-37: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 12:28:49,768 [Worker-38: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:28:49,768 [Worker-38: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:28:49,769 [Worker-38: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:28:49,769 [Worker-38: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:31:26,210 [Worker-42: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:31:26,210 [Worker-42: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:31:26,211 [Worker-42: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:31:26,212 [Worker-42: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:33:22,167 [Worker-41: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:33:22,167 [Worker-41: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:33:22,170 [Worker-41: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:33:22,170 [Worker-41: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:35:55,907 [Worker-44: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:35:55,907 [Worker-44: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:35:55,908 [Worker-44: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:35:55,908 [Worker-44: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:36:41,135 [Worker-45: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:36:41,135 [Worker-45: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:36:41,136 [Worker-45: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:36:41,136 [Worker-45: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 12:37:39,980 [Worker-47: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 12:37:39,981 [Worker-47: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 12:52:25,471 [Worker-54: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:52:25,471 [Worker-54: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:52:25,472 [Worker-54: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:52:25,476 [Worker-54: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 12:52:33,298 [Worker-58: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 12:52:33,298 [Worker-58: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 12:53:15,554 [Worker-57: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:53:15,555 [Worker-57: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 12:53:15,555 [Worker-57: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 12:53:15,556 [Worker-57: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 13:40:18,463 [Worker-61: Launching resources (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:40:18,464 [Worker-61: Launching resources (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:40:18,466 [Worker-61: Launching resources (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:40:18,467 [Worker-61: Launching resources (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 13:40:49,361 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2022-02-10 13:40:50,622 [Worker-66: Launching projections (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 13:40:50,622 [Worker-66: Launching projections (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 13:40:56,935 [Worker-67: Launching Executing test in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 13:40:56,935 [Worker-67: Launching Executing test in D__projection_projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2022-02-10 13:41:34,921 [Worker-63: Launching projections.reg] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:41:34,922 [Worker-63: Launching projections.reg] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:41:34,923 [Worker-63: Launching projections.reg] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:41:34,924 [Worker-63: Launching projections.reg] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 13:44:09,499 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:44:09,499 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:44:09,500 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:44:09,500 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 13:45:06,729 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:45:06,729 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:45:06,731 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:45:06,731 [Worker-67: Launching login.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 13:45:54,934 [Worker-66: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:45:54,935 [Worker-66: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:45:54,936 [Worker-66: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:45:54,936 [Worker-66: Launching resources] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:47:49,598 [Worker-68: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:47:49,598 [Worker-68: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:47:49,599 [Worker-68: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:47:49,599 [Worker-68: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 13:48:45,081 [Worker-67: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:48:45,082 [Worker-67: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:48:45,083 [Worker-67: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:48:45,084 [Worker-67: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:57:01,777 [Worker-64: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:57:01,777 [Worker-64: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 13:57:01,779 [Worker-64: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 13:57:01,780 [Worker-64: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:01:11,233 [Worker-71: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:01:11,233 [Worker-71: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:01:11,234 [Worker-71: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:01:11,235 [Worker-71: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:01:55,824 [Worker-74: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:01:55,824 [Worker-74: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:01:55,825 [Worker-74: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:01:55,825 [Worker-74: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:03:12,554 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:03:12,555 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:03:12,556 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:03:12,557 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:04:17,767 [Worker-77: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:04:17,767 [Worker-77: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:04:17,768 [Worker-77: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:04:17,768 [Worker-77: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:06:16,531 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:06:16,531 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:06:16,532 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:06:16,532 [Worker-76: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:06:38,332 [Worker-77: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\projection\projections
+2022-02-10 14:06:38,332 [Worker-77: Launching projections] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2022-02-10 14:07:50,365 [Worker-75: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:07:50,365 [Worker-75: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:07:50,366 [Worker-75: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:07:50,367 [Worker-75: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:08:47,589 [Worker-82: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:08:47,589 [Worker-82: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:08:47,591 [Worker-82: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:08:47,592 [Worker-82: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:09:22,010 [Worker-74: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:09:22,011 [Worker-74: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:09:22,013 [Worker-74: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:09:22,013 [Worker-74: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:12:47,910 [Worker-79: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:12:47,911 [Worker-79: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:12:47,912 [Worker-79: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:12:47,913 [Worker-79: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:13:12,745 [Worker-82: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:13:12,745 [Worker-82: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:13:12,745 [Worker-82: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:13:12,746 [Worker-82: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:31:10,605 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:31:10,606 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:31:10,614 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:31:10,615 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:32:49,312 [Worker-84: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:32:49,313 [Worker-84: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:32:49,314 [Worker-84: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:32:49,316 [Worker-84: Launching LoginStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 14:35:03,440 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:35:03,441 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 14:35:03,441 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 14:35:03,442 [Worker-85: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 15:36:37,046 [Worker-114: Launching java] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 15:36:37,050 [Worker-114: Launching java] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 15:36:37,051 [Worker-114: Launching java] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 15:36:37,051 [Worker-114: Launching java] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 16:46:24,324 [Worker-125: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 16:46:24,325 [Worker-125: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 16:46:24,325 [Worker-125: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 16:46:24,326 [Worker-125: Build Project] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 16:46:26,808 [Worker-123: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 16:46:26,809 [Worker-123: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 16:46:26,811 [Worker-123: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 16:46:26,812 [Worker-123: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-10 18:13:49,397 [Worker-147: Launching projections.projection.service] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:13:49,397 [Worker-147: Launching projections.projection.service] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:13:49,398 [Worker-147: Launching projections.projection.service] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:13:49,399 [Worker-147: Launching projections.projection.service] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-02-10 18:16:52,794 [Worker-151: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:16:52,795 [Worker-151: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:16:52,796 [Worker-151: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:16:52,796 [Worker-151: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-02-10 18:18:42,567 [Worker-153: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:18:42,567 [Worker-153: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:18:42,569 [Worker-153: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:18:42,570 [Worker-153: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-02-10 18:19:18,883 [Worker-156: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:19:18,883 [Worker-156: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:19:18,884 [Worker-156: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:19:18,885 [Worker-156: Launching register.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2022-02-10 18:28:29,171 [Worker-159: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:28:29,171 [Worker-159: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:28:29,172 [Worker-159: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:28:29,173 [Worker-159: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 18:55:50,366 [Worker-163: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:55:50,367 [Worker-163: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:55:50,368 [Worker-163: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:55:50,368 [Worker-163: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 18:57:15,810 [Worker-173: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:57:15,810 [Worker-173: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:57:15,811 [Worker-173: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:57:15,812 [Worker-173: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 18:58:33,926 [Worker-166: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:58:33,926 [Worker-166: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 18:58:33,929 [Worker-166: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 18:58:33,930 [Worker-166: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:00:29,948 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:00:29,948 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:00:29,950 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:00:29,951 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:01:20,542 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:01:20,542 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:01:20,543 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:01:20,543 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:02:17,371 [Worker-171: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:02:17,372 [Worker-171: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:02:17,372 [Worker-171: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:02:17,373 [Worker-171: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:02:52,127 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:02:52,127 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:02:52,127 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:02:52,128 [Worker-170: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:05:36,122 [Worker-170: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:05:36,122 [Worker-170: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:05:36,124 [Worker-170: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:05:36,125 [Worker-170: Launching HomeScreenStarter] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:14:11,810 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:14:11,810 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:14:11,811 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:14:11,812 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2022-02-10 19:15:53,900 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:15:53,900 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:15:53,901 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:15:53,901 [Worker-174: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-10 19:17:42,888 [Worker-179: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:17:42,888 [Worker-179: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-10 19:17:42,891 [Worker-179: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-10 19:17:42,892 [Worker-179: Launching userProjection.feature] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources

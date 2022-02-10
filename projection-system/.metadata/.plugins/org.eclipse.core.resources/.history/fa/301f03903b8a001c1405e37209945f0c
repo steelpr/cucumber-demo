@@ -1,0 +1,5 @@
+package projections.register;
+
+public class RegisterService {
+
+}

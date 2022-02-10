@@ -1,0 +1,14 @@
+package projections;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(monochrome = true, plugin = {"pretty","html:target/cucumber-login"}, glue = { "projections.reg",
+"src/test/resources/projections/login/login" }, features = {"src/test/resources/projections/login/login", "src/test/resources/projections/register/register"})
+public class HomeScreenStarter {
+
+}
+ 
